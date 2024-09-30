@@ -42,9 +42,7 @@ description: 来一张随机图·
 
 ### 权限
 
-{% hint style="info" %}
-<mark style="color:blue;">成员</mark>
-{% endhint %}
+> <mark style="color:blue;">成员</mark>
 
 ### 触发
 

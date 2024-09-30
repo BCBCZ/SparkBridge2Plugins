@@ -41,9 +41,7 @@ description: 根据提问进行回答
 
 ### 权限
 
-{% hint style="info" %}
-<mark style="color:blue;">成员</mark>
-{% endhint %}
+> <mark style="color:blue;">成员</mark>
 
 ### 触发
 

@@ -32,9 +32,7 @@ description: 获取服务器状态信息
 
 ### 权限
 
-{% hint style="info" %}
-<mark style="color:blue;">成员</mark>
-{% endhint %}
+> <mark style="color:blue;">成员</mark>
 
 ### 触发
 

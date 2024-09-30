@@ -55,9 +55,7 @@ description: 根据提问进行回答
 
 ### 权限
 
-{% hint style="info" %}
-<mark style="color:yellow;">管理</mark>或<mark style="color:blue;">成员</mark>
-{% endhint %}
+> <mark style="color:yellow;">管理</mark>或<mark style="color:blue;">成员</mark>
 
 ### 触发
 

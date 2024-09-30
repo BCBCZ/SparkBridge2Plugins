@@ -38,13 +38,9 @@ description: 获取磁盘信息
 
 ### 权限
 
-{% hint style="info" %}
-群聊 <mark style="color:blue;">成员</mark>
-{% endhint %}
+> 群聊 <mark style="color:blue;">成员</mark>
 
-{% hint style="warning" %}
-私聊 <mark style="color:red;">**好友**</mark>
-{% endhint %}
+> 私聊 <mark style="color:red;">**好友**</mark>
 
 ### 触发
 

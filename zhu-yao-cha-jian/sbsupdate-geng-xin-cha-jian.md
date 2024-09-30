@@ -46,9 +46,7 @@ description: 更新sparkbridge2的插件
 
 ### 权限
 
-{% hint style="info" %}
-<mark style="color:yellow;">管理</mark>
-{% endhint %}
+> <mark style="color:yellow;">管理</mark>
 
 ### 触发
 

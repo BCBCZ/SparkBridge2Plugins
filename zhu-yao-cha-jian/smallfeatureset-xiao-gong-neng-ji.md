@@ -43,9 +43,7 @@ description: 更多功能
 
 ### 权限
 
-{% hint style="info" %}
-成员
-{% endhint %}
+> 成员
 
 ### 触发
 
