@@ -8,9 +8,7 @@ description: 让我们快速开始吧
 
 ### 前置准备 <a href="#qian-zhi-zhun-bei" id="qian-zhi-zhun-bei"></a>
 
-{% hint style="info" %}
-适用于SparkBridge作为LeviLamina插件加载的情况
-{% endhint %}
+> 适用于SparkBridge作为LeviLamina插件加载的情况
 
 * GitHub: [SparkBridge2](https://github.com/sparkbridge) 快捷下载 [SparkBridge2](https://www.minebbs.com/resources/sparkbridge-bot-qq.5480/)
 
